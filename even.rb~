@@ -1,0 +1,5 @@
+a=0
+until a>101 
+ puts a if a%2==0
+ a+=1
+end
